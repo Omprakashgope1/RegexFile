@@ -1,0 +1,14 @@
+C:\Users\OM\source\repos\Regex\Regex\bin\Debug\net8.0\RegexClass.exe
+C:\Users\OM\source\repos\Regex\Regex\bin\Debug\net8.0\RegexClass.deps.json
+C:\Users\OM\source\repos\Regex\Regex\bin\Debug\net8.0\RegexClass.runtimeconfig.json
+C:\Users\OM\source\repos\Regex\Regex\bin\Debug\net8.0\RegexClass.dll
+C:\Users\OM\source\repos\Regex\Regex\bin\Debug\net8.0\RegexClass.pdb
+C:\Users\OM\source\repos\Regex\Regex\obj\Debug\net8.0\RegexClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OM\source\repos\Regex\Regex\obj\Debug\net8.0\RegexClass.AssemblyInfoInputs.cache
+C:\Users\OM\source\repos\Regex\Regex\obj\Debug\net8.0\RegexClass.AssemblyInfo.cs
+C:\Users\OM\source\repos\Regex\Regex\obj\Debug\net8.0\RegexClass.csproj.CoreCompileInputs.cache
+C:\Users\OM\source\repos\Regex\Regex\obj\Debug\net8.0\RegexClass.dll
+C:\Users\OM\source\repos\Regex\Regex\obj\Debug\net8.0\refint\RegexClass.dll
+C:\Users\OM\source\repos\Regex\Regex\obj\Debug\net8.0\RegexClass.pdb
+C:\Users\OM\source\repos\Regex\Regex\obj\Debug\net8.0\RegexClass.genruntimeconfig.cache
+C:\Users\OM\source\repos\Regex\Regex\obj\Debug\net8.0\ref\RegexClass.dll
